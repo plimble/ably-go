@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ably/ably-go/ably"
-	"github.com/ably/ably-go/ably/internal/ablyutil"
+	"github.com/plimble/ably-go/ably"
+	"github.com/plimble/ably-go/ably/internal/ablyutil"
 
 	"gopkg.in/vmihailenco/msgpack.v2"
 )

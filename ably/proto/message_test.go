@@ -3,8 +3,8 @@ package proto_test
 import (
 	"encoding/base64"
 
-	"github.com/ably/ably-go/ably/ablytest"
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/ablytest"
+	"github.com/plimble/ably-go/ably/proto"
 
 	. "github.com/ably/ably-go/Godeps/_workspace/src/github.com/onsi/ginkgo"
 	. "github.com/ably/ably-go/Godeps/_workspace/src/github.com/onsi/gomega"

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 type CryptoData struct {

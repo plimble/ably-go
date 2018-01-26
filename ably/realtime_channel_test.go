@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ably/ably-go/ably"
-	"github.com/ably/ably-go/ably/ablytest"
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably"
+	"github.com/plimble/ably-go/ably/ablytest"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 func expectMsg(ch <-chan *proto.Message, name, data string, t time.Duration, received bool) error {

@@ -3,7 +3,7 @@ package ably_test
 import (
 	"time"
 
-	"github.com/ably/ably-go/ably"
+	"github.com/plimble/ably-go/ably"
 
 	. "github.com/ably/ably-go/Godeps/_workspace/src/github.com/onsi/ginkgo"
 	. "github.com/ably/ably-go/Godeps/_workspace/src/github.com/onsi/gomega"

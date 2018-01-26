@@ -3,7 +3,7 @@ package ably
 import (
 	"strings"
 
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 // based on HttpUtils::encodeURIComponent from ably-java library

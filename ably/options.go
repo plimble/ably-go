@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ably/ably-go/ably/internal/ablyutil"
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/internal/ablyutil"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 const (

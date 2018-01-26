@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 var (

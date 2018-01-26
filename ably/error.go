@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/proto"
 )
 
 func toStatusCode(code int) int {

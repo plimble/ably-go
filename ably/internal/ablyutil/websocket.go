@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/ably/ably-go/ably/proto"
+	"github.com/plimble/ably-go/ably/proto"
 
 	"github.com/ably/ably-go/Godeps/_workspace/src/golang.org/x/net/websocket"
 	"gopkg.in/vmihailenco/msgpack.v2"
