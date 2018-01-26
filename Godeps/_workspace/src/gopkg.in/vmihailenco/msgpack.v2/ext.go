@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/ably/ably-go/Godeps/_workspace/src/gopkg.in/vmihailenco/msgpack.v2/codes"
+	"gopkg.in/vmihailenco/msgpack.v2/codes"
 )
 
 var (

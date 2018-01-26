@@ -15,7 +15,7 @@ import (
 
 	"github.com/ably/ably-go/ably/proto"
 
-	"github.com/ably/ably-go/Godeps/_workspace/src/gopkg.in/vmihailenco/msgpack.v2"
+	"gopkg.in/vmihailenco/msgpack.v2"
 )
 
 var (

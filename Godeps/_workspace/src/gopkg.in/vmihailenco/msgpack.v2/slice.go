@@ -5,7 +5,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/ably/ably-go/Godeps/_workspace/src/gopkg.in/vmihailenco/msgpack.v2/codes"
+	"gopkg.in/vmihailenco/msgpack.v2/codes"
 )
 
 func (e *Encoder) encodeBytesLen(l int) error {
